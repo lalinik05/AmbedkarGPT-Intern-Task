@@ -1,0 +1,16 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Chroma database directory
+chroma_db/
+chroma/
+
+# System files (for macOS users)
+.DS_Store
+
+# Temporary files
+*.log
